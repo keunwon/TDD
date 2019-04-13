@@ -10,4 +10,5 @@ public class Dallar {
     public void times(int multiplier) {
         ammount *= multiplier;
     }
+
 }
